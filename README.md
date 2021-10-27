@@ -3,7 +3,7 @@
 Sou estudante de Engenharia da Computação 👩💻<br/>
 Atualmente estou estagiando no setor de TI do TRT 5ª Região 💼<br/><br/>
 📚 Atualmente estou estudando:<br/> 
-• Java POO <br/>
+• Java OO <br/>
 • Redes de Computadores<br/><br/>
 📚 Também estou estudando, com menos frequência:<br/>
 •HTML e CSS<br/><br/>
