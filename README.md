@@ -15,9 +15,9 @@ Atualmente estou estagiando no setor de TI do TRT 5ª Região 💼<br/><br/>
 </div>
   
 ##
-
-<div align="center"><br><br>   
-  <a href="https://www.linkedin.com/in/fernandaoliverc/" height="auto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<div align="center"><br>
+  <a href="https://www.linkedin.com/in/fernandaoliverc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:feernandaoliveira01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div><br/>
