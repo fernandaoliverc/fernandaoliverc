@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu me chamo Fernanda 👋 </b>
 
-<!--
-**fernandaoliverc/fernandaoliverc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia da Computação 👩💻<br/>
+Atualmente estou estagiando no setor de TI do TRT 5ª Região 💼<br/><br/>
+📚 Atualmente estou estudando:<br/> 
+• Java POO <br/>
+• Redes de Computadores<br/><br/>
+📚 Também estou estudando, com menos frequência:<br/>
+•HTML e CSS<br/><br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/fernandaoliverc">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=fernandaoliverc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaoliverc&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+##
+<div align="center">  
+<br><a href="https://www.linkedin.com/in/fernandaoliverc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:feernandaoliveira01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
