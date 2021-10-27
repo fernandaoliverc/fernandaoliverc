@@ -10,8 +10,8 @@ Atualmente estou estagiando no setor de TI do TRT 5ª Região 💼<br/><br/>
 
 <div align="center">
   <a href="https://github.com/fernandaoliverc">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fernandaoliverc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaoliverc&layout=compact&langs_count=7&theme=radical"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fernandaoliverc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaoliverc&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ##
