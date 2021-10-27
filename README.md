@@ -6,7 +6,7 @@ Atualmente estou estagiando no setor de TI do TRT 5ª Região 💼<br/><br/>
 • Java OO <br/>
 • Redes de Computadores<br/><br/>
 📚 Também estou estudando, com menos frequência:<br/>
-•HTML e CSS<br/><br/>
+• HTML e CSS<br/><br/>
 
 <div align="center">
   <a href="https://github.com/fernandaoliverc">
