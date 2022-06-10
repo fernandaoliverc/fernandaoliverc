@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Fernanda 👋 </b>
 
-//Sou estudante de Engenharia da Computação 👩💻<br/>
-//Atualmente estou estagiando no setor de TI do TRT 5ª Região 💼<br/><br/>
+Sou estudante de Engenharia da Computação 👩💻<br/>
+Atualmente estou estagiando no setor de TI do TRT 5ª Região 💼<br/><br/>
 📚 Atualmente estou estudando:<br/> 
 • Java OO <br/>
 • Redes de Computadores<br/><br/>
